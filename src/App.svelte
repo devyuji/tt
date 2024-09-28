@@ -17,7 +17,10 @@
     </nav>
     <div class="info--container">
       <h1>List of torrent websites that work.</h1>
-      <h2>** Make sure to use VPN when using torrent websites **</h2>
+      <h2>
+        ** Don't be a pirate without a patch! Use a VPN to sail the seas safely.
+        **
+      </h2>
     </div>
 
     <div class="link--container">
@@ -30,12 +33,6 @@
           </li>
         {/each}
       </ol>
-    </div>
-
-    <div class="information--container">
-      <p>
-        List will be updated regulary so that you get the right torrent website.
-      </p>
     </div>
   </div>
 </main>
