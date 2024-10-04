@@ -18,7 +18,7 @@
     <div class="info--container">
       <h1>List of torrent websites that work.</h1>
       <h2>
-        ** Don't be a pirate without a patch! Use a VPN to sail the seas safely.
+        ** Don't be a pirate without a patch! Use a VPN to sail the internet safely.
         **
       </h2>
     </div>
