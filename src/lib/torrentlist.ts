@@ -45,6 +45,11 @@ const list: listType[] = [
     name: "XXXClub",
     url: "https://xxxclub.to/",
   },
+{
+    id: 9,
+    name: "AudioBookBay",
+    url: "https://audiobookbay.lu",
+  },
 ];
 
 export default list;
