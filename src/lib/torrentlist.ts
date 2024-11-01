@@ -41,6 +41,11 @@ const list: listType[] = [
     url: "https://nyaa.si",
   },
   {
+    id: 10,
+    name: "Sukebei",
+    url: "https://sukebei.nyaa.si",
+  },
+  {
     id: 8,
     name: "XXXClub",
     url: "https://xxxclub.to/",
