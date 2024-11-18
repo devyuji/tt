@@ -4,4 +4,4 @@
 
 This repository maintains a curated list of active torrent websites. The list is regularly updated to ensure accuracy and completeness. If you are aware of additional torrent websites that should be included, please contribute to the repository by editing the [lib/torrentlist.ts](https://github.com/devyuji/tt/blob/main/src%2Flib%2Ftorrentlist.ts) file.
 
-### Check out the list: [tt.rraghavan.com](http://tt.rraghavan.com)
+### Check out the list: [1tt.netlify.app](http://1tt.netlify.app)
